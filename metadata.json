@@ -1,0 +1,6 @@
+{
+  "name": "Guna Tailor Services",
+  "description": "High-end bespoke tailoring platform featuring real-time order tracking, encrypted client portal, tailor task management, 5-stage firewall protection, and AI-powered master styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
